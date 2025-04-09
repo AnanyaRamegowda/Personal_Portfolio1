@@ -1,9 +1,6 @@
 # Personal_Portfolio
 ## 🧩 Introduction
-<small>
 In a world where your digital presence speaks before you do, having a personal portfolio is no longer optional—it's essential. This website is my corner of the internet, a reflection of my journey as a passionate learner, aspiring developer, and creative problem-solver. Rather than relying solely on resumes or social profiles, I wanted to create a space that not only highlights my projects and skills but also tells my story—how I started, what I’ve learned, what I’m building, and where I aim to go. Every section of this portfolio is designed with care to represent me—both personally and professionally. From the layout and animations to the projects and tech stack, everything you see here is the result of learning by doing, experimenting, and growing. This website isn't just a showcase; it's a milestone in my development journey—a blend of code, creativity, and continuous improvement. Whether you're a recruiter, a fellow developer, or just someone curious, I invite you to explore, connect, and discover what I’ve been up to. This is more than a portfolio—it’s my digital storybook.
-</small>
-
 ---
 
 ## 🎯 Objectives
