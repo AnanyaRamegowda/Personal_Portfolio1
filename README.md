@@ -2,7 +2,9 @@
 ## 🧩 Introduction
 ## 🧩 Introduction
 
-This portfolio website is a fully responsive, modern web application built to represent my personal brand and digital presence. It serves as a professional space to highlight my skills, technical expertise, projects, and career journey.Designed with a focus on both aesthetics and performance, the website is built using **React**, **TypeScript**, **Vite**, and **Tailwind CSS**—ensuring fast load times, scalable code structure, and a smooth user experience. It features various sections such as an About Me, Skills, Project Showcase, and Contact form, all developed with a minimalist yet interactive interface.The goal of this site is to make it easy for recruiters, collaborators, and tech enthusiasts to explore who I am, what I do, and how to get in touch. It reflects my commitment to writing clean code, building intuitive UIs, and continually learning in the ever-evolving world of web development.
+This portfolio website is a fully responsive, modern web application built to represent my personal brand and digital presence. It serves as a professional space to highlight my skills, technical expertise, projects, and career journey.Designed with a focus on both aesthetics and performance, the website is built using React, TypeScript, Vite, and Tailwind CSS—ensuring fast load times, scalable code structure, and a smooth user experience. 
+It features various sections such as an About Me, Skills, Project Showcase, and Contact form, all developed with a minimalist yet interactive interface.
+The goal of this site is to make it easy for recruiters, collaborators, and tech enthusiasts to explore who I am, what I do, and how to get in touch. It reflects my commitment to writing clean code, building intuitive UIs, and continually learning in the ever-evolving world of web development.
 ---
 
 ## 🎯 Objectives
